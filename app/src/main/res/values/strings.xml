@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutCollaboration</string>
+
+    <string name="salam_pembuka">Selamat Datang di Pelatihan developer Android @Code Margonda. Di sini Anda akan menemukan kelas-kelas pelatihan yang menjelaskan cara mengerjakan tugas tertentu dengan contoh kode yang bisa Anda gunakan kembali dalam aplikasi. Kelas-kelas tersebut disusun dalam sejumlah grup yang bisa Anda lihat di navigasi kiri bagian atas.
+
+Panduan pelatihan pertama di bawah mengajarkan Anda hal penting dalam development aplikasi Android. Jika Anda adalah developer aplikasi Android baru, Anda harus menyelesaikan masing-masing kelas secara urut.
+
+Juga tersedia beragam pelatihan video online jika Anda lebih menyukai pengalaman video interaktif.</string>
+</resources>
